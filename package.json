@@ -9,6 +9,7 @@
    "author": "Pavan Kumar Galeveti",
    "license": "",
    "devDependencies": {
+      "babel-loader": "^6.2.4",
       "webpack": "^1.13.0"
    }
 }
